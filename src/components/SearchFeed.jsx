@@ -28,7 +28,7 @@ const SearchFeed = () => {
         <span style={{ color: "#FC1503" }}>{searchTerm}</span> videos
       </Typography>
 
-      <Videos videos={videos} />1234567
+      <Videos videos={videos} />12345678
     </Box>
   );
 };
