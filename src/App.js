@@ -4,7 +4,7 @@ import { Box } from "@mui/material";
 import {
   Navbar,
   Feed, 
-  VideoDetail, 
+  VideoDetail,  
   ChannelDetail,  
   SearchFeed,    
 } from "./components"; 
