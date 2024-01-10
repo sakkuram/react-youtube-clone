@@ -9,7 +9,7 @@ import {
   SearchFeed,  
 } from "./components"; 
 
-const App = () => (
+const App = () => ( 
   <BrowserRouter> 
     <Box sx={{ backgroundColor: "#000" }}>
       <Navbar />
