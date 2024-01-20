@@ -5,7 +5,7 @@ import {
   Navbar,       
   Feed,    
   VideoDetail,       
-  ChannelDetail,      
+  ChannelDetail,       
   SearchFeed,          
 } from "./components";   
       
