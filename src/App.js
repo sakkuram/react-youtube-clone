@@ -3,7 +3,7 @@ import { Box } from "@mui/material";
 
 import { 
   Navbar,       
-  Feed,   
+  Feed,    
   VideoDetail,       
   ChannelDetail,      
   SearchFeed,       
