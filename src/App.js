@@ -10,7 +10,7 @@ import {
 } from "./components";  
      
 const App = () => (    
-  <BrowserRouter>     
+  <BrowserRouter>      
     <Box sx={{ backgroundColor: "#000" }}>  
       <Navbar />    
       <Routes>  
